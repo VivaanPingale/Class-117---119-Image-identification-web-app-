@@ -1,0 +1,35 @@
+#heading_div {
+    background-color: lightskyblue;
+}
+
+#heading {
+    color: white;
+}
+
+.subheading {
+    border-radius: 15px;
+    float: none;
+    background-color: white;
+    padding: 10px;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+
+.result_para_tag {
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid grey;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px darkgrey;
+}
